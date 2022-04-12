@@ -1,0 +1,1 @@
+These points are used to approximate the Pareto front of WFG3.
